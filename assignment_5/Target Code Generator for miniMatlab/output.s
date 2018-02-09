@@ -1,0 +1,3 @@
+	.file	"output.s"
+
+	.text
